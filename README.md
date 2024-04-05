@@ -1,3 +1,3 @@
-Create a stock portfolio tracking tool that allows users to add,
-remove, and track the performance of their stock investments.
-Utilize financial APIs for real-time stock data.
+Create a basic voice assistant that can performsimple tasks based on voice commands like
+responding to “Hello” and providing
+predefined responses.
